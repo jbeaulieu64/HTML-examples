@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+   <meta charset="utf-8">
+   <title>My Sample Art Store</title>
+   <!-- <style>
+            h2{
+                display: inline;
+
+            }
+
+   </style> -->
+</head>
+<body>
+  <h1>My Sample Art Store</h1>
+  <!-- <nav id="mainMenu">
+		<ul>
+		  <li><a href="#">Home</a></li>
+		  <li><a href="#">Artists </a></li>
+		  <li><a href="#">Artworks</a></li>
+      <li><a href="#">About Us</a></li>
+		  <li><a href="#">Search</a></li>
+		</ul>
+	</nav> -->
+  <nav id="mainMenu">
+		<ul>
+		  <li><a href="#">Home,</a></li>
+		  <li><a href="#">Artists </a></li>
+		  <li><a href="#">Artworks</a></li>
+      <li><a href="#">About Us</a></li>
+		  <li><a href="#">Search</a></li>
+		</ul>
+	</nav>
+  <h2>Mademoiselle Caroline Riviere</h2>
+  <img src="images/06010-large.jpg" title"Riviere" alt="Riviere pic" />
+  <article>The potrait of Mademoiselle Caroline Riviere was painted in 1806 by French
+    Neoclassical artist Jean Auguste Dominique Ingres, and today hangs in the Loure.
+    It is the third of three  potraits of the Riviere family the artist painted that year.
+  </article>
+  <section id="info">
+    <p>
+        Date: 1806 <br/>
+        Medium: Oil on Canvas <br/>
+        Dimensions: 100 x 70 <br/>
+        Home: Mesee du Louvre, Paris <br/>
+    </p>
+  </section>
